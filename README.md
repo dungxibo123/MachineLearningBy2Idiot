@@ -7,9 +7,9 @@
 >  ***Hello, we are 2 idiots***\
 >  ***We just want to share our materials we luckily have a chance to meet on our way***
 
-## Materials
+# Materials
 
-### Mathematics
+# Mathematics
 | Link | Content |
 | ------ | ------ |
 | **[Mathematics for Machine Learning][mml-book]** | Essential mathematic for machine learning |
