@@ -24,6 +24,7 @@
 
 | Link | Content |
 | ------ | ------ |
+| **[Luis Serrano][luisSerrano]** | ML/DL with Cartoon Description |
 | **[Zero to GAN][zero2gan]** | From Basics with tensor data to Generative adversarial network |
 | **[Dive into Deep Learning][d2l-book]** | Deep Learning from Scratch |
 | **[DATA DRIVEN SCIENCE & ENGINEERING][datauw-book]** | Data ~ ML ~ Dynamical Systems and Control  |
@@ -78,3 +79,4 @@ Those materials still updating,...
    [cvx-book]: <https://web.stanford.edu/~boyd/cvxbook/>
    [paper-code]: <https://paperswithcode.com/>
    [paper-roadmap]: <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
+   [luisSerrano]: <https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ>
